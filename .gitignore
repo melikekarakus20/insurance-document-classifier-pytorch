@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+outputs/
+*.pyc
+.DS_Store
+# Real insurance documents / personal identifiers MUST NOT be committed
+private_data/
+*.pt
